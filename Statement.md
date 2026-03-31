@@ -27,7 +27,7 @@ The main objectives of this project are:
 Each round consists of:
 
 1. The player choosing to roll either 2 or 3 dice
-2. The AI selecting its dice count based on current HP conditions 
+2. The AI selecting its dice count based on current HP conditions  
 3. Both sides calculating scores from their dice rolls
 4. Damage being applied based on the score difference
 
