@@ -25,7 +25,7 @@ Each round, both you and the AI roll dice to generate scores. The higher score d
 ✅ Smart AI decision making  
 ✅ HP & round tracking  
 ✅ Automatic game-over detection  
-✅ Clean, object-oriented structure  
+✅ Clean, object-oriented structure   
 
 ---
 
