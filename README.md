@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>A stylish dice battle game built with Python and CustomTkinter</b><br>
-  Fight an AI opponent using strategy, luck, and dice rolls!
+  Fight an AI opponent using strategy, luck, and dice rolls! 
 </p>
 
 ---
