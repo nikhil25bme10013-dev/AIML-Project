@@ -46,7 +46,7 @@ Each round, both you and the AI roll dice to generate scores. The higher score d
 ---
 
 ## 📦 Requirements
-
+ 
 - Python 3.8+
 - customtkinter
 
