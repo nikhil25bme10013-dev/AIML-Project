@@ -1,4 +1,6 @@
-# 🎲 AI Dice Battle — CustomTkinter GUI Game
+<p align="center">
+  <b># 🎲 AI Dice Battle — CustomTkinter GUI Game</b><br>
+</p>
 
 <p align="center">
   <b>A stylish dice battle game built with Python and CustomTkinter</b><br>
