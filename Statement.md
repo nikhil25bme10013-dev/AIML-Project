@@ -4,7 +4,7 @@
 
 AI Dice Battle is a turn-based dice combat game developed in Python with a graphical user interface built using the CustomTkinter library. The project demonstrates how simple game mechanics, when combined with a clean GUI and structured logic, can create an engaging user experience.
 
-The objective of the game is straightforward: the player and an AI opponent take turns rolling dice, and the higher score in each round deals damage to the other. The first to reduce the opponent’s health points (HP) to zero wins.
+The objective of the game is straightforward: the player and an AI opponent take turns rolling dice, and the higher score in each round deals damage to the other. The first to reduce the opponent’s health points (HP) to zero wins.  
 
 This project focuses on combining game logic, probability, decision-making, and GUI design into a cohesive application.   
 
