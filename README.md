@@ -41,7 +41,7 @@ Each round, both you and the AI roll dice to generate scores. The higher score d
 
 ## 🖥️ GUI Preview
 
-> Buttons replace terminal input, and a live log shows the action in real time.
+> Buttons replace terminal input, and a live log shows the action in real time.  
 
 ---
 
