@@ -53,4 +53,4 @@ Each round, both you and the AI roll dice to generate scores. The higher score d
 Install dependency:
 
 ```bash
-pip install customtkinter
+pip install customtkinter 
