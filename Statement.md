@@ -47,7 +47,7 @@ The project is structured to keep logic and interface separate:
 - Core game functions handle dice rolling, scoring, and AI decisions
 - A GUI class manages all visual components and user interaction
 - State variables track HP, rounds, and game progress
-
+ 
 This separation improves readability, maintainability, and scalability.
 
 ---
