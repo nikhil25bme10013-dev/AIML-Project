@@ -15,7 +15,7 @@ This project focuses on combining game logic, probability, decision-making, and 
 The main objectives of this project are:
 
 - To design a turn-based game using Python
-- To implement a graphical interface using CustomTkinter
+- To implement a graphical interface using CustomTkinter 
 - To separate game logic from user interface code
 - To demonstrate basic AI decision-making
 - To create an interactive and user-friendly desktop application
