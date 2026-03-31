@@ -9,7 +9,7 @@
 
 ## 🕹️ Game Overview
 
-**AI Dice Battle** is a turn-based dice combat game where you battle against an AI.  
+**AI Dice Battle** is a turn-based dice combat game where  you battle against an AI.  
 Each round, both you and the AI roll dice to generate scores. The higher score deals damage!
  
 - Roll **2 dice** for safer play
